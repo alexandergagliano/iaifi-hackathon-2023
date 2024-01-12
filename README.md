@@ -9,4 +9,5 @@ Tutorials and notebooks for the [IAIFI Astro Hackathon](https://iaifi.org/hackat
 
 - [Self-supervised and multimodal machine learning](./multimodal_ssl/)
 - [Neural simulation-based inference](./sbi/)
+- [Anomaly Detection](./anomaly_detection/)
 
